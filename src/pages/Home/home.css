@@ -1,0 +1,13 @@
+button.buttonUpdateAll {
+  width: 150px;
+  height: 50px;
+  display: flex;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.buttonUpdateWapper {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
